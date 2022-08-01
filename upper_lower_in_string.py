@@ -12,4 +12,4 @@ def string_given(str1):
    print ("No. of Upper case characters : ", data["UPPER_CASE"])
    print ("No. of Lower case Characters : ", data["LOWER_CASE"])
 
-string_given('data')
+string_given('str1')
